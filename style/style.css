@@ -89,11 +89,15 @@ body {
 
 .box3 {
 	flex:1;
+	padding:5px;
+	background-color: #D3D3D3
 }
 
 .box4 {
 	flex:1;
 	text-align:left;
+	padding:5px;
+	background-color: #606060
 }
 
  a:link {
